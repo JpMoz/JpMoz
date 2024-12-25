@@ -17,8 +17,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="CSS"
+  title="CSS"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
@@ -26,8 +26,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="JS"
+  title="JS"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
@@ -35,8 +35,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="REACT"
+  title="REACT"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
@@ -44,8 +44,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="MSQL"
+  title="MSQL"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
@@ -53,8 +53,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="JAVA"
+  title="JAVA"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
@@ -62,8 +62,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="PYTHON"
+  title="PYTHON"
   width= "50px"
   style= "padding-right: 50px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
@@ -76,8 +76,8 @@ Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnolo
 <a href="https://www.linkedin.com/in/joaopedromoz/">
   <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="LINKEDIN"
+    title="LINKEDIN"
     width= "90px"
     style= "padding-right: 50px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
