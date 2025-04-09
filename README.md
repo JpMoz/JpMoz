@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Meu nome é João Pedro Moz, tenho 17 anos e me interesso pela área de Técnologia desde o começo da pandemia, onde começei a utilizar bastante o computador, comecei meus estudos na área pelo curso Informática-Windows da FISK, onde aprendi o básico sobre hardware e aprendi a utilizar as ferramentas do pacote Office da Microsoft, me formei em Técnico de Desenvolvimento de Sistemas pela Etec Horácio Augusto da Silveira, atualmente busco iniciar minha carreira como programador Front-End.
+Meu nome é João Pedro Moz, tenho 18 anos e me interesso pela área de Técnologia desde o começo da pandemia, onde começei a utilizar bastante o computador, comecei meus estudos na área pelo curso Informática-Windows da FISK, onde aprendi o básico sobre hardware e aprendi a utilizar as ferramentas do pacote Office da Microsoft, me formei em Técnico de Desenvolvimento de Sistemas pela Etec Horácio Augusto da Silveira, atualmente busco iniciar minha carreira como programador Front-End.
 
 ## 💻 Linguagens e Tecnologias
 
